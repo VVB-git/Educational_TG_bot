@@ -1,0 +1,62 @@
+topics:
+  - role_id: am_assistant
+    title: Счета и документы
+    questions:
+      - title: Как выставлять счета
+        file: invoices.md
+
+  - role_id: am_assistant
+    title: Отчеты
+    questions:
+      - title: Как называть отчет
+        file: report_naming.md
+      - title: Как заполнять таблицу с лидами
+        file: leads_table.md
+      - title: Как собирать статистику по баннерам
+        file: banners_stats.md
+      - title: Как сделать еженедельный отчет по Сподвижникам
+        file: weekly_spodvizhniki.md
+
+  - role_id: am_assistant
+    title: Аналитика
+    questions:
+      - title: Как выгрузить Post-view конверсии
+        file: post_view.md
+      - title: Что такое прямые Post-click конверсии
+        file: post_click_direct.md
+      - title: Что такое ассоциированные Post-click конверсии
+        file: post_click_assoc.md
+      - title: Как посчитать CPL
+        file: cpl.md
+      - title: Как рассчитать бюджет цикла производства
+        file: budget_cycle.md
+      - title: Как обойти лимиты Яндекс Метрики
+        file: metrica_limits.md
+
+  - role_id: am_assistant
+    title: Клиент «Сподвижники»
+    questions:
+      - title: Где таблицы и что туда вносить
+        file: vera_spodvizhniki.md
+
+  - role_id: am_assistant
+    title: Шаблоны
+    questions:
+      - title: Как запросить отчет у Жени
+        file: template_zhene.md
+      - title: Шаблон резюме по циклу
+        file: template_resume.md
+
+  - role_id: am_assistant
+    title: База
+    questions:
+      - title: Какие продукты мы предлагаем клиенту
+        file: products.md
+      - title: Что делать, если просят отключить PPT
+        file: ppt_disable.md
+      - title: Основные термины
+        file: terms.md
+      - title: Какие бывают виды лидов
+        file: lead_types.md
+      - title: Что такое Search Lift
+        file: search_lift.md
